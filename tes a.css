@@ -1,0 +1,71 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+    background-image: url(1180467.jpg);
+    background-position: 50%;
+    backdrop-filter: blur(10px);
+}
+
+.nama-navbar {
+    text-align: center;
+    color: white;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: solid;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+
+}
+
+.content-navbar {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.springbed-navbar {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    text-align: center;
+    color: white;
+}
+
+.potret-navbar {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    text-align: center;
+    color: antiquewhite;
+}
+
+.t1-navbar {
+    display: flex;
+    align-content: baseline;
+    justify-content: baseline;
+}
+.t2-navbar {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.t3-navbar {
+    display: flex;
+    align-content: end;
+    justify-content: end;
+}
+
+.mimpi-navbar {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+
+.m1-navbar {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
